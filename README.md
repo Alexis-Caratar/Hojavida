@@ -2,7 +2,7 @@
 
 **Ingeniero de Sistemas** | Desarrollador Fullstack  
 San Juan de Pasto – Nariño – Colombia  
-📧 ingalexisdev@gmail.com | 📞 (312) 550-3210  
+📧 ingalexisdev@gmail.com | 📞 (316) 246-7600  
 🌐 [LinkedIn](https://www.linkedin.com/in/alexis-caratar-21a80224b)
 
 ---
@@ -49,20 +49,20 @@ Soy un desarrollador fullstack apasionado por crear soluciones tecnológicas esc
 
 ## 📁 Proyectos Destacados
 
-- 🎓 Sistema de gestión del Consultorio Jurídico (Angular + Node.js + PostgreSQL) – Universidad CESMAG  
+- 🎓 Sistema de gestión del Consultorio Jurídico (Angular + Node.js + PostgreSQL) – Universidad CESMAG
+- 🤖 Sistema de gestión de ecoomerce (React + Node.js + PostgreSQL)
 - 📱 Aplicación móvil de seguimiento académico (Flutter + Firebase)  
-- 🤖 Bot GitHub–Slack para alertas automáticas de revisión de código  
 
 ---
 
 ## 💼 Experiencia
 
 ### Universidad CESMAG – *Desarrollador de Aplicaciones* (2021 – Actualidad)
-- Desarrollo y soporte de plataformas académicas utilizadas por más de 2.000 estudiantes.  
+- Desarrollo y soporte de plataformas académicas utilizadas por más de 6.000 estudiantes.  
 - Optimización de rendimiento en un 30% y automatización de reportes.  
 
 ### SISNOVA S.A.S – *Desarrollador de Sistemas* (2024)
-- Desarrollo de soluciones empresariales personalizadas con Angular y APIs REST.  
+- Desarrollo de soluciones empresariales personalizadas con .NET
 
 ### Collect Center S.A.S – *Soporte Técnico* (2019 – 2021)
 - Mantenimiento de sistemas internos y soporte a usuarios.
