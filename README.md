@@ -57,7 +57,7 @@ Soy un desarrollador fullstack apasionado por crear soluciones tecnológicas esc
 
 ## 💼 Experiencia
 
-### Universidad CESMAG – *Desarrollador de Aplicaciones* (2025 – Actualidad)
+### Universidad CESMAG – *Desarrollador de Aplicaciones* (2021 – Actualidad)
 - Desarrollo y soporte de plataformas académicas utilizadas por más de 2.000 estudiantes.  
 - Optimización de rendimiento en un 30% y automatización de reportes.  
 
