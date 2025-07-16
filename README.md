@@ -50,7 +50,7 @@ Soy un desarrollador fullstack apasionado por crear soluciones tecnológicas esc
 ## 📁 Proyectos Destacados
 
 - 🎓 Sistema de gestión del Consultorio Jurídico (Angular + Node.js + PostgreSQL) – Universidad CESMAG
-- 🤖 Sistema de gestión de ecoomerce (React + Node.js + PostgreSQL)
+- 🤖 Sistema de gestión de ecommerce (React + Node.js + PostgreSQL)
 - 📱 Aplicación móvil de seguimiento académico (Flutter + Firebase)  
 
 ---
